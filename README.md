@@ -12,4 +12,4 @@
   - ⚙️ Riding a Unicycle, and
   - 🤸 Flipping around - just not at the same time.
 
-[!Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/windusayles)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/windusayles)
