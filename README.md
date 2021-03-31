@@ -19,6 +19,6 @@
   - ⚙️  Riding a Unicycle, and
   - 🤸  Flipping around - just not at the same time.
 
-![Windu's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=windusayles&show_icons=true&theme=dark&locale=en&layout=compact "Windu's Computer Linguistics")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=windusayles&show_icons=true&theme=dark&locale=en&layout=compact "Windu's Computer Linguistics")
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/windusayles)
