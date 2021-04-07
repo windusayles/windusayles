@@ -4,7 +4,7 @@
 -->
 - 🔭 I’m currently working on redesigning UI layouts for increased accessibility and UX best practices.
   - Developing Dev Tools with the React-Hook-Form library with [formaBull](https://github.com/oslabs-beta/formaBull)
-  - Creating tools for improving client management UX for [Good Vibes](https://www.goodvibes.news)
+  - Creating tools to improve client management for [Good Vibes](https://www.goodvibes.news)
 
 - 🌱  For my own curiosity, I'm studying ML tools in Python, like TensorFlow and Pandas.
 
