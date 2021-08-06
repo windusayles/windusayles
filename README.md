@@ -1,14 +1,14 @@
-# Oh hi, thanks for stopping by! 👋🏼
+# Hi! It's me, Windu. 👋🏼
 <!--
 **windusayles/windusayles** is a ✨ _sPeCiAl_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on redesigning UI layouts for increased accessibility and UX best practices.
+- I started working for CVS in June of '21 as a fullstack developer.  It's going great!
+
+- 🔭 I spent some time
   - Developing Dev Tools with the React-Hook-Form library with [formaBull](https://github.com/oslabs-beta/formaBull)
   - Creating tools to improve client management for [Good Vibes](https://www.goodvibes.news)
 
-- 🌱  For my own curiosity, I'm studying ML tools in Python, like TensorFlow and Pandas.
-
-- 👯  I’m looking to collaborate on open-source projects, especially if it relates to AI.
+- 🌱  I've been working with Python off and on, though I primarily live in JavaScript land.  I like it - I see more of it in my future.
 
 - 🤔  I’m also interested in other people's eating/workout routines, and balancing those routines with desk life.
 
